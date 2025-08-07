@@ -1,0 +1,16 @@
+{
+  "name": "Alisha Ibarra | Links Personales",
+  "short_name": "Alisha Links",
+  "description": "Página personal de enlaces de Alisha Ibarra - Desarrolladora y Diseñadora",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#02343f",
+  "theme_color": "#02343f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
